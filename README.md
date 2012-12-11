@@ -2,7 +2,7 @@
 
 A replacement [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) loader for
 [RequireJS](http://requirejs.org). It is a smaller "shim" loader, providing the
-minimal AMD API footprint that includes [loader plugin](http://requirejs.org/docs/plugins.html) support.
+minimal AMD API footprint that includes [loader plugin](http://requirejs.org/docs/plugins.html) support. This is a special fork of almond which also supports the onResourceLoad hook.
 
 ## Why
 
