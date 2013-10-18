@@ -1,5 +1,6 @@
 
 doh.registerUrl("simple", "../simple.html");
+doh.registerUrl("defineDouble", "../defineDouble/defineDouble.html");
 doh.registerUrl("moduleConfig", "../moduleConfig/moduleConfig.html");
 doh.registerUrl("mapConfig", "../mapConfig/mapConfig.html");
 doh.registerUrl("mapConfigStar", "../mapConfig/mapConfigStar.html");
@@ -22,3 +23,7 @@ doh.registerUrl("circularTranspiler", "../circular/transpiler/transpiler.html");
 doh.registerUrl("relativePaths", "../relativePaths/relativePaths.html");
 doh.registerUrl("errback", "../errback/errback.html");
 doh.registerUrl("specialDeps", "../specialDeps/specialDeps.html");
+doh.registerUrl("hasOwnPropertyTests", "../hasOwnProperty/hasOwnProperty.html");
+doh.registerUrl("firstDefine", "../firstDefine/firstDefine.html");
+doh.registerUrl("topRelativeRequire", "../topRelativeRequire/topRelativeRequire.html");
+doh.registerUrl("configDeps", "../configDeps/configDeps.html");
